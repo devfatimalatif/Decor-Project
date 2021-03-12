@@ -9,4 +9,4 @@ You will learn how to style headings, add images and display icons onto a webpag
 young people can choose whoever they want to make a website about!
 This web development project will teach young people how to use CSS classes. You will learn how to make background content on a web page move at a different speed to the foreground content. This cool website scrolling technique is called ‘parallax scroll’.
 In this project you will learn some of the basics of JavaScript, one of the world’s most popular programming languages.
-Different Function of the javascripts id added to give different functionality to the project
+Different Function of the javascripts id added to give different functionality to the project.
